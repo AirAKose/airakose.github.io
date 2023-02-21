@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   The blog for video game programmer Erekose Craft. I am a UI specialist
   with experience in Unreal Engine (3, 4, 5), strong C++ proficiency,
   and a penchant for advocating for accessibility.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://airakose.com" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: airakose
 github_username:  airakose
